@@ -31,8 +31,12 @@
             android:id="@+id/textViewSubTitle"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
             android:text="Bergabunglah bersama Kami, Daftarkan Diri Anda Sekarang Juga dengan Mengisi Form di Bawah ini..."
-            android:textAppearance="?android:attr/textAppearanceSmall" />
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="@color/material_blue_grey_950"
+            android:textSize="15dp"
+            android:textStyle="normal" />
 
         <ImageView
             android:id="@+id/imageView"
